@@ -6,94 +6,94 @@ The data is based grouped by on activity and subject. The activities are walking
  
 # The variables
 
- * Activity_Name                               
- * subject                                    
- * tBodyAccelerometermeanX           
- * tBodyAccelerometermeanY                    
- * tBodyAccelerometermeanZ           
- * tBodyAccelerometerstdX                     
- * tBodyAccelerometerstdY            
- * tBodyAccelerometerstdZ                     
- * tGravityAccelerometermeanX        
- * tGravityAccelerometermeanY                 
-* tGravityAccelerometermeanZ         
- * tGravityAccelerometerstdX                  
-* tGravityAccelerometerstdY          
- * tGravityAccelerometerstdZ                  
-* tBodyAccelerometerJerkmeanX        
- * tBodyAccelerometerJerkmeanY                
-* tBodyAccelerometerJerkmeanZ        
- * tBodyAccelerometerJerkstdX                 
-* tBodyAccelerometerJerkstdY         
- * tBodyAccelerometerJerkstdZ                 
-* tBodyGyroscopemeanX                
- * tBodyGyroscopemeanY                        
-* tBodyGyroscopemeanZ                
- * tBodyGyroscopestdX                         
-* tBodyGyroscopestdY                 
- * tBodyGyroscopestdZ                         
-* tBodyGyroscopeJerkmeanX            
- * tBodyGyroscopeJerkmeanY                    
-* tBodyGyroscopeJerkmeanZ            
- * tBodyGyroscopeJerkstdX                     
-* tBodyGyroscopeJerkstdY             
- * tBodyGyroscopeJerkstdZ                     
-* tBodyAccelerometerMagnitudemean    
- * tBodyAccelerometerMagnitudestd             
-* tGravityAccelerometerMagnitudemean 
- * tGravityAccelerometerMagnitudestd          
-* tBodyAccelerometerJerkMagnitudemean
- * tBodyAccelerometerJerkMagnitudestd         
-* tBodyGyroscopeMagnitudemean        
- * tBodyGyroscopeMagnitudestd                 
-* tBodyGyroscopeJerkMagnitudemean    
- * tBodyGyroscopeJerkMagnitudestd             
-* fBodyAccelerometermeanX            
- * fBodyAccelerometermeanY                    
-* fBodyAccelerometermeanZ            
- * fBodyAccelerometerstdX                     
-* fBodyAccelerometerstdY             
- * fBodyAccelerometerstdZ                     
-* fBodyAccelerometermeanFreqX        
- * fBodyAccelerometermeanFreqY                
-* fBodyAccelerometermeanFreqZ        
- * fBodyAccelerometerJerkmeanX                
-* fBodyAccelerometerJerkmeanY        
- * fBodyAccelerometerJerkmeanZ                
-* fBodyAccelerometerJerkstdX         
- * fBodyAccelerometerJerkstdY                 
-* fBodyAccelerometerJerkstdZ         
- * fBodyAccelerometerJerkmeanFreqX            
-* fBodyAccelerometerJerkmeanFreqY    
- * fBodyAccelerometerJerkmeanFreqZ            
-* fBodyGyroscopemeanX                
- * fBodyGyroscopemeanY                        
-* fBodyGyroscopemeanZ                
- * fBodyGyroscopestdX                         
-* fBodyGyroscopestdY                 
- * fBodyGyroscopestdZ                         
-* fBodyGyroscopemeanFreqX            
- * fBodyGyroscopemeanFreqY                    
-* fBodyGyroscopemeanFreqZ            
- * fBodyAccelerometerMagnitudemean            
-* fBodyAccelerometerMagnitudestd     
- * fBodyAccelerometerMagnitudemeanFreq        
-* fBodyBodyAccelerometerJerkMagnitudemean     
-* fBodyBodyAccelerometerJerkMagnitudestd     
-* fBodyBodyAccelerometerJerkMagnitudemeanFreq 
-* fBodyBodyGyroscopeMagnitudemean            
-* fBodyBodyGyroscopeMagnitudestd     
- * fBodyBodyGyroscopeMagnitudemeanFreq        
-* fBodyBodyGyroscopeJerkMagnitudemean
- * fBodyBodyGyroscopeJerkMagnitudestd         
-* fBodyBodyGyroscopeJerkMagnitudemeanFreq     
-* angletBodyAccelerometerMeangravity         
-* angletBodyAccelerometerJerkMeangravityMean  
-* angletBodyGyroscopeMeangravityMean         
-* angletBodyGyroscopeJerkMeangravityMean      
-* angleXgravityMean                          
-* angleYgravityMean                  
- * angleZgravityMean
+*Activity_Name
+*subject
+*tBodyAccelerometermeanX
+*tBodyAccelerometermeanY
+*tBodyAccelerometermeanZ
+*tBodyAccelerometerstdX
+*tBodyAccelerometerstdY
+*tBodyAccelerometerstdZ
+*tGravityAccelerometermeanX
+*tGravityAccelerometermeanY
+*tGravityAccelerometermeanZ
+*tGravityAccelerometerstdX
+*tGravityAccelerometerstdY
+*tGravityAccelerometerstdZ
+*tBodyAccelerometerJerkmeanX
+*tBodyAccelerometerJerkmeanY
+*tBodyAccelerometerJerkmeanZ
+*tBodyAccelerometerJerkstdX
+*tBodyAccelerometerJerkstdY
+*tBodyAccelerometerJerkstdZ
+*tBodyGyroscopemeanX
+*tBodyGyroscopemeanY
+*tBodyGyroscopemeanZ
+*tBodyGyroscopestdX
+*tBodyGyroscopestdY
+*tBodyGyroscopestdZ
+*tBodyGyroscopeJerkmeanX
+*tBodyGyroscopeJerkmeanY
+*tBodyGyroscopeJerkmeanZ
+*tBodyGyroscopeJerkstdX
+*tBodyGyroscopeJerkstdY
+*tBodyGyroscopeJerkstdZ
+*tBodyAccelerometerMagnitudemean
+*tBodyAccelerometerMagnitudestd
+*tGravityAccelerometerMagnitudemean
+*tGravityAccelerometerMagnitudestd
+*tBodyAccelerometerJerkMagnitudemean
+*tBodyAccelerometerJerkMagnitudestd
+*tBodyGyroscopeMagnitudemean
+*tBodyGyroscopeMagnitudestd
+*tBodyGyroscopeJerkMagnitudemean
+*tBodyGyroscopeJerkMagnitudestd
+*fBodyAccelerometermeanX
+*fBodyAccelerometermeanY
+*fBodyAccelerometermeanZ
+*fBodyAccelerometerstdX
+*fBodyAccelerometerstdY
+*fBodyAccelerometerstdZ
+*fBodyAccelerometermeanFreqX
+*fBodyAccelerometermeanFreqY
+*fBodyAccelerometermeanFreqZ
+*fBodyAccelerometerJerkmeanX
+*fBodyAccelerometerJerkmeanY
+*fBodyAccelerometerJerkmeanZ
+*fBodyAccelerometerJerkstdX
+*fBodyAccelerometerJerkstdY
+*fBodyAccelerometerJerkstdZ
+*fBodyAccelerometerJerkmeanFreqX
+*fBodyAccelerometerJerkmeanFreqY
+*fBodyAccelerometerJerkmeanFreqZ
+*fBodyGyroscopemeanX
+*fBodyGyroscopemeanY
+*fBodyGyroscopemeanZ
+*fBodyGyroscopestdX
+*fBodyGyroscopestdY
+*fBodyGyroscopestdZ
+*fBodyGyroscopemeanFreqX
+*fBodyGyroscopemeanFreqY
+*fBodyGyroscopemeanFreqZ
+*fBodyAccelerometerMagnitudemean
+*fBodyAccelerometerMagnitudestd
+*fBodyAccelerometerMagnitudemeanFreq
+*fBodyBodyAccelerometerJerkMagnitudemean
+*fBodyBodyAccelerometerJerkMagnitudestd
+*fBodyBodyAccelerometerJerkMagnitudemeanFreq
+*fBodyBodyGyroscopeMagnitudemean
+*fBodyBodyGyroscopeMagnitudestd
+*fBodyBodyGyroscopeMagnitudemeanFreq
+*fBodyBodyGyroscopeJerkMagnitudemean
+*fBodyBodyGyroscopeJerkMagnitudestd
+*fBodyBodyGyroscopeJerkMagnitudemeanFreq
+*angletBodyAccelerometerMeangravity
+*angletBodyAccelerometerJerkMeangravityMean
+*angletBodyGyroscopeMeangravityMean
+*angletBodyGyroscopeJerkMeangravityMean
+*angleXgravityMean
+*angleYgravityMean
+*angleZgravityMean
 
 
 
