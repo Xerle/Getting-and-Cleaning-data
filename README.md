@@ -8,7 +8,7 @@ the tested subject. The columnnames of the X data can be found in features.txt. 
 colnames are combined with the X data.
  
 Then the columns that describe a mean or std diviation are inculded. Next to this are
-the subject ID's and X end data combined. Next step is to read in the Activity Names and \
+the subject ID's and X end data combined. Next step is to read in the Activity Names and
 merge these with the Y_data, such that we get the translation for the activities. 
 The output is combined with data created before.
 
